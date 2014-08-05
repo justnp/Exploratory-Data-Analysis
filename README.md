@@ -15,7 +15,7 @@ Course Content
 Repository "Exploratory-Data-Analysis" consists of following sub-folders
 
 Sub Folders
------------
+------------
 1. Course Project 1 : this folder contains plot images and R script files used to generate plot images
 
 2. Course Project 2 : this folder contains plot images and R script files used to generate plot images

@@ -1,5 +1,5 @@
 Exploratory Data Analysis Project
-=======================================================
+=================================
 
 #Assignment 2
 
@@ -11,7 +11,7 @@ Fine particulate matter ($PM_{2.5}$) is an ambient air pollutant for which there
 For each year and for each type of PM source, the NEI records how many tons of $PM_{2.5}$ were emitted from that source over the course of the entire year. The data that you will use for this assignment are for 1999, 2002, 2005, and 2008.
 
 Data
----------
+------
 
 The data for this assignment are available from the course web site as a single zip file:
 
@@ -55,7 +55,7 @@ SCC <- readRDS("Source_Classification_Code.rds")
 as long as each of those files is in your current working directory (check by calling ``dir()`` and see if those files are in the listing).
 
 Assignment
----------------
+-----------
 
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999?2008. You may use any R package you want to support your analysis.
 
